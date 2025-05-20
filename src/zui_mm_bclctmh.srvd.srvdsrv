@@ -1,0 +1,4 @@
+@EndUserText.label: 'Báo cáo luồng chứng từ mua hàng'
+define service ZUI_MM_BCLCTMH {
+  expose ZI_MM_BCLCTMH;
+}

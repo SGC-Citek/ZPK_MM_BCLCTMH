@@ -1,0 +1,35 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Báo cáo luồng chứng từ mua hàng",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zpkmmbclctmh"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C814A42378700C28CA9A410AC45312C0AEE2114A_TM",
+    "semanticObject": "zpkmmbclctmh",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C814A42378700C28CA9A410AC45312C0AEE2114A_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Báo cáo luồng chứng từ mua hàng",
+        "subtitle": "ZMM02",
+        "icon": "sap-icon://process"
+      }
+    }
+  ]
+}
